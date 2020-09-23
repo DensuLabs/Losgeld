@@ -1,0 +1,2 @@
+# Losgeld
+Python Ransomware Sample
