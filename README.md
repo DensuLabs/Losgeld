@@ -1,4 +1,4 @@
-# [Ransomware Sample In Python That Encrypt and Decrypt Files]
+# [Ransomware Sample In Python]
 To run this:
 - `pip3 install -r requirements.txt`
 - 
